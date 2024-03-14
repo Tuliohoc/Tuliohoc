@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tuliohoc
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML || CSS || JavaScript || Node || Angular || React || MYSQL ||...
+- 🌱 I’m currently learning HTML || CSS || JavaScript|| Angular || React || MYSQL ||...
 - 💞️ I try to collaborate with several projects to add to my professional knowledge.
 - 📫 How to reach me [Linkedlin](https://www.linkedin.com/in/tulioz/)
 
