@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Tuliohoc
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML || CSS || JavaScript|| Angular || React || MYSQL ||...
-- 💞️ I try to collaborate with several projects to add to my professional knowledge.
-- 📫 How to reach me [Linkedlin](https://www.linkedin.com/in/tulioz/)
+# Hi, I'm Tulio Ramos 👋
 
-<!---
-Tuliohoc/Tuliohoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## QA Engineer | Software Quality | Test Automation
+
+I'm a QA Engineer from Brazil with experience in manual testing, API validation, test automation, databases, and performance testing.
+
+Currently focused on building reliable test automation frameworks and improving software quality for web applications.
+
+## Tech Stack
+
+### Testing
+Playwright • Cypress • Postman • Insomnia • k6
+
+### Backend & Database
+REST APIs • PostgreSQL • MongoDB • SQL
+
+### Development
+JavaScript • TypeScript • Git • GitHub • CI/CD
+
+## Featured Projects
+
+### Playwright E2E Automation Framework
+End-to-end automation for login, checkout, registration and API validation.
+
+### REST API Testing Collection
+Postman collection with automated tests, environments and assertions.
+
+### Performance Testing with k6
+Load testing scenarios with HTML reports and performance metrics.
+
+## Let's connect
+
+- LinkedIn
+- Portfolio
+- Email
