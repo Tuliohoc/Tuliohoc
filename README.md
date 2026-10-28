@@ -29,7 +29,3 @@ Postman collection with automated tests, environments and assertions.
 Load testing scenarios with HTML reports and performance metrics.
 
 ## Let's connect
-
-- LinkedIn
-- Portfolio
-- Email
